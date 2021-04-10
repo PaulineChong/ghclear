@@ -1,8 +1,8 @@
 Create a folder for your github repo in laptop.
-Open folder ang using gitbash type git init.
+Open folder and using gitbash type git init.
 .git is created but sometimes is a hidden item.
 If so, go to tick box to show hidden file.
-Git add remote origin did not work as origin was used before as main file for download.
+Git add remote origin did not work as origin was used before download.
 Rename origin to myorigin and main instead of master as in github min branch.
 
 Note:  Fork does not work with own repo.

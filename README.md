@@ -1,14 +1,16 @@
 # ghclear
 For homework and as a reminder. <br>
-GIThub is like facebook Hub. Sharing for all to see and copy.
+GIThub is like facebook. Sharing for all to see and copy.<br>
 Commits = suggestions/comments/changes.
-Create a repository (like making project).  
+Create a repository (making a post).  
 Tick with readme file (like formatting your phone).
-Protect your orignal file/project and make branches or fork for other people.  
-Make many branches to modify - different smaller portions
-Can also make branches in laptop too.
-In laptop is call "local repo" - no one can see.
+Protect your orignal file and make branches or fork for other people.  
+Make many branches to modify - different smaller portions.
+Local repo - is the post you are making on your laptop 
+Can also make many branches in laptop too.
 Cannot fork if own repo.
-Then merge and push back to github (main page on social media/remote). Push is deploy.
-Pick and choose what you want to add to your project ="pull requests" and give comment and send it back to them.
+Then merge changes with orignal post.
+Push back to master/ main file onto github (main page on social media, called a remote). 
+Push contents back to main page is deploy.
+Pick and choose what you want to add to your project ="pull requests",give comment to remind yourself and others.
 And can delete/ break their branches.

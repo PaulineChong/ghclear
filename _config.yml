@@ -1,0 +1,11 @@
+# basic options
+title: My_Jekyll
+author: Dino
+email: your-email@domain.com
+description: A GH blog
+twitter_username: jekyllrb
+github_username:  paulinechong
+
+# Build settings
+markdown: kramdown
+theme: minima

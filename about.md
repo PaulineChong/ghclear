@@ -3,12 +3,10 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+This is about this GitHub page with Jekyll.
+Trial and errors. 
 
-Reasons:
-- its great.
-- its a test.
+Why Jekyll sometimes work and sometime not.
 
 ## Other thoughts
 

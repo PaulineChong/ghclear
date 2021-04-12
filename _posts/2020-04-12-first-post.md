@@ -1,5 +1,5 @@
 ---
-layout:post
+layout:page
 title:'Journey to IT World'
 date:'12th Apr, 2021'
 ---

@@ -1,4 +1,4 @@
-# ghclear
+
 For homework and as a reminder. <br>
 GIThub is like facebook. Sharing for all to see and copy.<br>
 Commits = suggestions/comments/changes.

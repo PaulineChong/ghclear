@@ -21,4 +21,4 @@ Clearly, they haven't updated the instructions despite the update of interface. 
 Created files - config.yml and about.md to use Jekyll (kept names as they are) but it kept publishing the original html.
 Put html into a folder and Jekyll page appears but posts did not.  
 Root?  docs probably refer to files (created another repo and tried it out - see GHsite).
-Purpose of doing a docker file? for own repo? or when should I use it?  or what to put in it?
+

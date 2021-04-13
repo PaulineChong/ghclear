@@ -1,4 +1,5 @@
-This homework.
+This homework. 
+Reflections after listening to presentations - i misunderstood thinking that i have to come up with more concrete solutions and justifications if I choose project one. I am not familar with the costs of APIs for incorporation into a mobile app and the cost of hiring more IT staff here.  And the turnover of these IT staff. And how cost effective in SEA where labour costs is low.  Moving DB to cloud based and APIs are great moving forward.  Automate backoffice with UIpath and powerBi and customer services for feedback time would be great.  I suggest to use IT company to build APIs and databases and to choose user friendly software.  Spending money to upgrade staff is good for long run..  And of course using github to build project. 
 
 Created this repo.  
 Not quite sure about workflow or what are we meant to see in that file?

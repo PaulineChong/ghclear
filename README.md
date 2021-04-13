@@ -1,15 +1,15 @@
 This homework.
 
 Created this repo.  
-Not quite sure what is workflow or what are we meant to see in that a file?
+Not quite sure about workflow or what are we meant to see in that file?
 A file that automatically churns out a diagram or a list of the commits.  Must we make one at the start?  or will it shows past records of commits if you make file later?
 will it work with own repo?
 But I could already see the list of commits from my repo. So what's the purpose?
 Fork doesn't work with own repo - so need to try with others.
 No master  but main branch.
-Created a branch and did some commits and pull reuquests.
-Went to my black screen and did 'git remote add origin...' but origin did not work.  So change 'origi'n to 'myorigi'n and it worked and master to main.
-Created a new branch, added files and wroite some remarks and push back to github on browser.  Worked.  
+Created a branch and did some commits and pull requests.
+Went to my black screen and did 'git remote add origin...' but origin did not work.  So change 'origin' to 'myorigin' and it worked and master to main.
+Created a new branch in my black screen, added files and wroite some remarks and push back to github on browser.  Worked.  
 Changed my main repo on browser by adding some files. 
 Tried again to send to dark screen without fork.  
 Noot sure how to call the remote so gave another name 'myorigin' to 'myrepo'.  Is there another way?
